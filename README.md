@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @alqvriqqq
+- 👀 I’m interested in: Coding in Lua
+- 🌱 I’m currently learning: Lua , LuaU , Python
+- 📫 How to reach me: dc @alqisbored
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: puts "coding in ruby for almost a year"
